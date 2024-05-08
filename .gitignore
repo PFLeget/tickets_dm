@@ -1,0 +1,12 @@
+DM-43259/
+DM-43506/
+history.txt
+PSF\ Catalog\ Plots.ipynb
+.gitignore~
+
+DM-38632_child/.ipynb_checkpoints/
+DM-38632_child/Original_notebook.ipynb
+DM-38632_child/fov_photometry_hsc.pkl
+DM-38632_child/stack_plot/
+DM-38632_child/visit_level_plot.tar.gz
+DM-38632_child/visit_level_plot/
